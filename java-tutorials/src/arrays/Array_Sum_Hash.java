@@ -42,7 +42,6 @@ First build  brute force approach & then optimize
 //write code at a medium pace 
 //test my code and fix any mistakes 
 
-////////////This is the brute force approach with Order (n^2) complexity because of two for loops inside each other
 
 
 import java.util.*;
